@@ -1,5 +1,5 @@
 ### Hi there 👋
-![maxresdefault](https://user-images.githubusercontent.com/99670149/233677339-4aa481ec-7733-48de-b755-70708fc863dd.jpg)
+
 
 <!--
 **camilamtzrmz/camilamtzrmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
